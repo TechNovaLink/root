@@ -17,7 +17,7 @@
     "licenses": [],
     "publicUrl": "https://technovalink.mobirisesite.com/",
     "resourcesUrl": "https://r.mobirisesite.com/368563/",
-    "path": "@SITES@/368563",
+    "path": "@PROJECT_PATH@",
     "name": "TechNovaLink",
     "currentPage": "TNova.html",
     "theme": {
